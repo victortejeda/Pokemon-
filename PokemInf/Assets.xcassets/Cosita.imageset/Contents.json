@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "png-transparent-pikachu-pokemon-go-pokemon-x-and-y-venusaur-bulbasaur-bulbasaur-vertebrate-fauna-cartoon-thumbnail.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "png-transparent-pikachu-pokemon-go-pokemon-x-and-y-venusaur-bulbasaur-bulbasaur-vertebrate-fauna-cartoon-thumbnail@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "png-transparent-pikachu-pokemon-go-pokemon-x-and-y-venusaur-bulbasaur-bulbasaur-vertebrate-fauna-cartoon-thumbnail@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
